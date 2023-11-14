@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ProductHints spec="1.0.16">
+
+  <Product version="3">
+    <UPID>6e77c485-c054-4f99-80ed-ce1136fe52bb</UPID>
+    <Name>Symphony Series Brass Solo</Name>
+    <Type>Content</Type>
+    <Relevance>
+      <Application>kkontrol</Application>
+      <Application minVersion="5.0.0.0" nativeContent="true">kontakt</Application>
+      <Application>maschine</Application>
+    </Relevance>
+    <PoweredBy>Kkontrol</PoweredBy>
+    <Visibility target="Standalone">7</Visibility>
+    <Company>Native Instruments GmbH</Company>
+    <AuthSystem>RAS2</AuthSystem>
+    <SNPID>590</SNPID>
+    <RegKey>Symphony Series Brass Solo</RegKey>
+    <Icon>kontakt</Icon>
+    <ProductSpecific>
+      <HU>AA9B0F3BF230FA0E2294482E6868FBD7</HU>
+      <JDX>556A23A19687EBC78C6D71292183F227D779B56B73ED6E676ED5C8322F8C8931</JDX>
+      <Visibility type="Number">3</Visibility>
+    </ProductSpecific>
+  </Product>
+
+</ProductHints>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<ProductHints spec="1.0.9">
+	<Product version="1">
+		<Company>Imperfect Samples</Company>
+		<Name>Steinway Walnut Concert Grand Pro</Name>
+		<RegKey>Steinway Walnut Concert Grand Pro</RegKey>
+		<Type>Content</Type>
+		<PoweredBy>Kontakt</PoweredBy>
+		<Icon>kontakt</Icon>
+		<Visibility>1</Visibility>
+		<AuthSystem>RAS2</AuthSystem>
+		<SNPID>00b</SNPID>
+		<ProductSpecific>
+			<Visibility type="Number">3</Visibility>
+		</ProductSpecific>
+	</Product>
+</ProductHints>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ProductHints spec="1.0.16">
+
+  <Product version="1">
+    <Name>Electric Guitar Strawberry</Name>
+    <Type>Content</Type>
+    <Relevance>
+      <Application nativeContent="true">kontakt</Application>
+    </Relevance>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility>1</Visibility>
+    <Company>Orange Tree</Company>
+    <AuthSystem>RAS2</AuthSystem>
+    <SNPID>1df</SNPID>
+    <RegKey>Electric Guitar Strawberry</RegKey>
+    <Icon>kontakt</Icon>
+    <ProductSpecific>
+      <Visibility type="Number">3</Visibility>
+    </ProductSpecific>
+  </Product>
+
+</ProductHints>

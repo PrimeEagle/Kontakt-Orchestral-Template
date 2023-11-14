@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<ProductHints>
+	<Product version='5'>
+    <UPID>745ca5ad-9da0-45c0-938c-808cc70ab992</UPID>
+		<Name>Enhanced EQ</Name>
+    <ProductFamily>
+      <Name>Enhanced EQ</Name>
+      <Version>1</Version>
+    </ProductFamily>
+		<Type>App</Type>
+    <AuthAppID>21</AuthAppID>
+		<PluginID fx='true'>0x4e69243a</PluginID>
+		<Company>Native Instruments GmbH</Company>
+		<AuthSystem>RAS2</AuthSystem>
+		<SNPID>444</SNPID>
+		<RegKey>Enhanced EQ</RegKey>
+    <BinName>Enhanced EQ</BinName>
+    <FactoryLibrary>Enhanced EQ Factory Presets</FactoryLibrary>
+    <Icon>NIFX</Icon>
+	</Product>  
+</ProductHints>

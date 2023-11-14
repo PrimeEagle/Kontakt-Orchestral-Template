@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ProductHints spec="1.0.9">
+  <Product version="1">
+    <Name>The Giant</Name>
+    <Type>Content</Type>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Company>Native Instruments GmbH</Company>
+    <Visibility>7</Visibility>
+    <AuthSystem>RAS2</AuthSystem>
+    <SNPID>152</SNPID>
+    <RegKey>The Giant</RegKey>
+    <Icon>kontakt</Icon>
+    <ProductSpecific>
+      <HU>6B70EC16E02410D1A515685C1001D559</HU>
+      <JDX>023730940B73318EAEAD916E3989EC68BE72599A2F1738F828A7D028C9B1ECCA</JDX>
+      <Visibility type="Number">3</Visibility>
+    </ProductSpecific>
+  </Product>
+</ProductHints>

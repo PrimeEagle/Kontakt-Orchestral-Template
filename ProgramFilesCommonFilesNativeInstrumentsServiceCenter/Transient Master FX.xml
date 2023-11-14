@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<ProductHints>
+	<Product>
+    <UPID></UPID>
+    <Name>Transient Master FX</Name>
+    <ProductFamily>
+      <Name>Transient Master</Name>
+      <Version>1</Version>
+    </ProductFamily>
+		<Type>App</Type>
+    <AuthAppID>16</AuthAppID>
+    <PluginID fx='true'>0x4e692435</PluginID>
+		<Company>Native Instruments GmbH</Company>
+    <SNPID>451</SNPID>
+    <AuthSystem>RAS2</AuthSystem>
+    <RegKey>Transient Master FX</RegKey>
+    <BinName>Transient Master</BinName>
+    <FactoryLibrary>Transient Master Factory Presets</FactoryLibrary>
+    <Icon>NIFX</Icon>    
+  </Product>
+  
+  <!-- hack: this product info disables visibility of the product in Maschine to avoid duplicate browser entries -->
+  <Product version='10'>
+    <Name>Guitar Rig Transient Master for Maschine</Name>
+    <Type>Content</Type>
+    <PoweredBy>Maschine</PoweredBy>
+    <Visibility>0</Visibility>
+    <Company>Native Instruments GmbH</Company>
+    <SNPID>FFF</SNPID>
+    <AuthSystem>None</AuthSystem>
+    <RegKey>_Guitar Rig Transient Master for Maschine</RegKey>
+    <Icon>maschine</Icon>
+  </Product>
+  
+  <Product version='10'>
+    <Name>Transient Master for Maschine</Name>
+    <Type>Content</Type>
+    <PoweredBy>Maschine</PoweredBy>
+    <Visibility>0</Visibility>
+    <Company>Native Instruments GmbH</Company>
+    <SNPID>FFF</SNPID>
+    <AuthSystem>None</AuthSystem>
+    <RegKey>_Transient Master for Maschine</RegKey>
+    <Icon>maschine</Icon>
+  </Product>
+  
+</ProductHints>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ProductHints spec="1.0.16">
+
+  <Product version="2">
+    <UPID>16ac405b-5c51-45aa-9779-308b40271542</UPID>
+    <Name>Metropolis Ark 2</Name>
+    <Type>Content</Type>
+    <Relevance>
+      <Application minVersion="5.0.0.0" nativeContent="true">kontakt</Application>
+    </Relevance>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility target="Standalone">1</Visibility>
+    <Company>Orchestral Tools</Company>
+    <AuthSystem>RAS2</AuthSystem>
+    <SNPID>051</SNPID>
+    <RegKey>Metropolis Ark 2</RegKey>
+    <Icon>
+      <Data>iVBORw0KGgoAAAANSUhEUgAAAF8AAAARCAYAAAC7HnDpAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA9BJREFUeNrsWEFu1TAQTX9/d0hkDWrJDQgnIEcIJyA9AbkBPkJuQHqDVByALNiTcoJQiX1YU+kzEz1/vQ7z26gt6pfoSE9JHHvGfh6PPU42m01icXz8Ihe0gkmwIeh38NqY9oWCyw4P16mgFTSCIBgEFf3PBZOgwz/bvhD0aKt6xlgH/zaqw+hi/TXaqP3O6J2gM6As2mhhc37iXwY9PZ6lHT9sVaYsg506lnnENYZwiyDIBKMl+BbyGzaMyRiZZBqgTkBr2mvdlL7LSDa+N6Z+701eJMIQ1XJ5tIM2wWnT419r7dD/YUf5drzrhOTk5OUgj9dUdCboBKMgFTwTfBUEwSvBF2lzenn5s01ul0qQxY+rq9/Ten2kugtBb+oOXCb1tM6gbah9Zw1IvUCfmdOHVOqUeB/x1L6PWh51sh2yNzr6eqcPOfpfynu2o90sKyK+IeLP6V3LvynRgs9aFURG+SRtqwXkP8cEskxO55WMGgPYkubVdQgKEURucpNNEK0T0ortNFkuNZywd5ysQJ/rmxSsQLzO1geUnWLgF4L38PDtShAv/w7lZ1TeLOjsuZm0xPN6IaOCvs54ea6eRJOU8bcnDpmT6Op51ainahlWgCXrpsloQH5n7Kg+5TN3xvs3+UKokv0OUEI+OnV/oYNzfYEqfoNJCgvI1zqVhgYNI4IGoaQnopTQInquhiUiWOv38q06qtiXOBEUnra64NFM5Fv5Vwt4whuEq2s6yTlyJhfvKUhu4Tzarxx6RgpTI1Yy96nCGOoDPdlgYFFRgMcnILbC5CwWWUkFJql3PDGPMZfjIQjM4J0DkcnfGcVyr3wu26ErJ0/22o42PsfJ5P2Gx0COk/NKMeUphdCc9zUlP5CnXwhhuZA3e428N8kdZBf5T2LCIpbWtdgtpI0L4/iT3ENW9P5j4ZHxSR7Q83eeWR/U0PpowAkmx6akoa3R+Ig42pjNMcS4jPYlNsUBq7WT/w3F4RaxORi7PfRpTC/3jfyAwYz/2JYmMSPI6EBi3AA7kB03qgplfIqpInkgWydNN84WCdtkHQgbnp5KUtoU90duu6e5C7zrhV0pNu48vFR8oLubzt6h6N0Jp/a4jykcPdq2+RfjvC9WezD/2YJM1Mtwl67UGmfrYp833MeS+T7JyVYzOh8PTraYmzBTeBkuzu6lk0D9l+SnnLYjeTlFmj5nk8gKA11wBVxU1bQHlM5xuKDsOUF22uy4vHt0OZjvlR9YkKTFfCExWWwVL8GcbDJ6bx83X5MdV/HkgtPOZPXGDRyZbrzculZ/X+SPAAMAOaW5ozepqM0AAAAASUVORK5CYII=</Data>
+    </Icon>
+    <ProductSpecific>
+      <HU>88886D81B45746A0AD39103394DC338E</HU>
+      <JDX>1001C983ACED664DCF4F3F1548728CE280439A18896B2DABB1AC9B1A2E226C96</JDX>
+      <Visibility type="Number">3</Visibility>
+    </ProductSpecific>
+  </Product>
+
+</ProductHints>

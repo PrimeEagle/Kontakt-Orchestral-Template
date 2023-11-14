@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<ProductHints spec="1.0.9">
+	<Product version="1">
+		<Company>Adam Monroe Music</Company>
+		<Name>Honky Tonk Piano</Name>
+		<RegKey>Honky Tonk Piano</RegKey>
+		<Type>Content</Type>
+		<PoweredBy>Kontakt</PoweredBy>
+		<Icon>kontakt</Icon>
+		<Visibility>1</Visibility>
+		<AuthSystem>RAS2</AuthSystem>
+		<SNPID>1ee</SNPID>
+		<ProductSpecific>
+			<Visibility type="Number">3</Visibility>
+		</ProductSpecific>
+	</Product>
+</ProductHints>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<ProductHints spec="1.0.9">
+	<Product version="1">
+		<Company>Musical Sampling</Company>
+		<Name>Soaring Strings</Name>
+		<RegKey>Soaring Strings</RegKey>
+		<Type>Content</Type>
+		<PoweredBy>Kontakt</PoweredBy>
+		<Icon>kontakt</Icon>
+		<Visibility>1</Visibility>
+		<AuthSystem>RAS2</AuthSystem>
+		<SNPID>871</SNPID>
+		<ProductSpecific>
+			<Visibility type="Number">3</Visibility>
+		</ProductSpecific>
+	</Product>
+</ProductHints>

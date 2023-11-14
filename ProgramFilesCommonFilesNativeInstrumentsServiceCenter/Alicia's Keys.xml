@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<ProductHints spec="1.0.9">
+	<Product version="1">
+		<Company>Native Instruments</Company>
+		<Name>Alicia's Keys</Name>
+		<RegKey>Alicia's Keys</RegKey>
+		<Type>Content</Type>
+		<PoweredBy>Kontakt</PoweredBy>
+		<Icon>kontakt</Icon>
+		<Visibility>1</Visibility>
+		<AuthSystem>RAS2</AuthSystem>
+		<SNPID>4ef</SNPID>
+		<ProductSpecific>
+			<Visibility type="Number">3</Visibility>
+		</ProductSpecific>
+	</Product>
+</ProductHints>

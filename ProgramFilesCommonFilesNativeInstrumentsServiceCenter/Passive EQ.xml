@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<ProductHints>
+	<Product version='5'>
+    <UPID>c9dce308-b253-4c73-9f09-b24c7f72e81b</UPID>
+		<Name>Passive EQ</Name>
+    <ProductFamily>
+      <Name>Passive EQ</Name>
+      <Version>1</Version>
+    </ProductFamily>
+		<Type>App</Type>
+    <AuthAppID>20</AuthAppID>
+		<PluginID fx='true'>0x4e692439</PluginID>
+		<Company>Native Instruments GmbH</Company>
+		<AuthSystem>RAS2</AuthSystem>
+		<SNPID>445</SNPID>
+		<RegKey>Passive EQ</RegKey>
+    <BinName>Passive EQ</BinName>
+    <FactoryLibrary>Passive EQ Factory Presets</FactoryLibrary>
+    <Icon>NIFX</Icon>
+	</Product>
+</ProductHints>

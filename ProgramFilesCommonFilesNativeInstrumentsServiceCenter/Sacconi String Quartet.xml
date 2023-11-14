@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<ProductHints spec="1.0.9">
+	<Product version="1">
+		<Company>Spitfire Audio</Company>
+		<Name>Sacconi String Quartet</Name>
+		<RegKey>Sacconi String Quartet</RegKey>
+		<Type>Content</Type>
+		<PoweredBy>Kontakt</PoweredBy>
+		<Icon>kontakt</Icon>
+		<Visibility>1</Visibility>
+		<AuthSystem>RAS2</AuthSystem>
+		<SNPID>b33</SNPID>
+		<ProductSpecific>
+			<Visibility type="Number">3</Visibility>
+		</ProductSpecific>
+	</Product>
+</ProductHints>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?> 
+<ProductHints> 
+   <Product version='1'> 
+      <Name>Damage</Name> 
+      <Type>Content</Type>
+      <PoweredBy>Kontakt</PoweredBy>
+      <Visibility>0x07</Visibility>
+      <Company>Native Instruments GmbH</Company> 
+      <AuthSystem>RAS2</AuthSystem> 
+      <SNPID>437</SNPID> 
+      <Icon>kontakt</Icon> 
+      <RegKey>Damage</RegKey> 
+      <ProductSpecific>
+        <HU>3640321C4F4F33CD5B117F701C0A1D3E</HU>
+        <JDX>2F3E7B75A431E89D21185FF7176B0660FE962B43A3FB34BBC43BD4FCDAB185EF</JDX>		
+        <Visibility type='Number'>3</Visibility>
+      </ProductSpecific>
+   </Product> 
+</ProductHints>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ProductHints spec="1.0.16">
+
+  <Product version="1">
+    <Name>EWQL Rare Instruments</Name>
+    <Type>Content</Type>
+    <Relevance>
+      <Application nativeContent="true">kontakt</Application>
+    </Relevance>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility>1</Visibility>
+    <Company>EastWest</Company>
+    <AuthSystem>RAS2</AuthSystem>
+    <SNPID>dc1</SNPID>
+    <RegKey>EWQL Rare Instruments</RegKey>
+    <Icon>kontakt</Icon>
+    <ProductSpecific>
+      <Visibility type="Number">3</Visibility>
+    </ProductSpecific>
+  </Product>
+
+</ProductHints>

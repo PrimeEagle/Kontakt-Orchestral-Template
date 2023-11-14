@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ProductHints spec="1.0.16">
+
+  <Product version="1">
+    <Name>Harp v1</Name>
+    <Type>Content</Type>
+    <NKSEnabled>true</NKSEnabled>
+    <Relevance>
+      <Application nativeContent="true">kontakt</Application>
+      <Application>maschine</Application>
+    </Relevance>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility>7</Visibility>
+    <Company>Spitfire Audio</Company>
+    <AuthSystem>RAS2</AuthSystem>
+    <SNPID>e56</SNPID>
+    <RegKey>Harp v1</RegKey>
+    <Icon>kontakt</Icon>
+    <ProductSpecific>
+      <Visibility type="Number">3</Visibility>
+    </ProductSpecific>
+  </Product>
+
+</ProductHints>

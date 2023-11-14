@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ProductHints spec="1.0.16">
+
+  <Product version="1">
+    <UPID>e1b0a0f1-9279-435d-b2a8-c734e73add5a</UPID>
+    <Name>Symphony Series Woodwind Ensemble</Name>
+    <Type>Content</Type>
+    <Relevance>
+      <Application minVersion="5.0.0.0" nativeContent="true">kontakt</Application>
+      <Application>maschine</Application>
+      <Application>kkontrol</Application>
+    </Relevance>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility target="Standalone">7</Visibility>
+    <Company>Native Instruments GmbH</Company>
+    <AuthSystem>RAS2</AuthSystem>
+    <SNPID>076</SNPID>
+    <RegKey>Symphony Series Woodwind Ensemble</RegKey>
+    <Icon>kontakt</Icon>
+    <ProductSpecific>
+      <HU>AFD7941D6C7FEC9EF9060B91D933F879</HU>
+      <JDX>84F1B4C89AFF23D07E74C402F93F1C39ADA0EBA6FC35E7E8071FF107809F8078</JDX>
+      <Visibility type="Number">3</Visibility>
+    </ProductSpecific>
+  </Product>
+
+</ProductHints>

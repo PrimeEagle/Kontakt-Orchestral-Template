@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+
+  <Product>
+    <Name>SOBrass Pro XP</Name>
+    <AuthSystem>RAS1</AuthSystem>
+    <SNPID>771</SNPID>
+  </Product>
+
+  <Product>
+    <Name>SOPercussion Pro XP</Name>
+    <AuthSystem>RAS1</AuthSystem>
+    <SNPID>772</SNPID>
+  </Product>
+
+  <Product>
+    <Name>SOStrings Pro XP</Name>
+    <AuthSystem>RAS1</AuthSystem>
+    <SNPID>769</SNPID>
+  </Product>
+
+  <Product>
+    <Name>SOWoodwinds Pro XP</Name>
+    <AuthSystem>RAS1</AuthSystem>
+    <SNPID>770</SNPID>
+  </Product>
+
+</ProductHints>

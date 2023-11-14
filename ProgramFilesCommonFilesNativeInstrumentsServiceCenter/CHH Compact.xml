@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?> 
+<ProductHints> 
+   <Product> 
+      <Name>CHH Compact</Name> 
+      <Company>Best Service</Company> 
+      <AuthSystem>RAS2</AuthSystem> 
+      <SNPID>821</SNPID> 
+      <Icon>ChrisHein</Icon> 
+      <RegKey>CHH Compact</RegKey> 
+   </Product> 
+</ProductHints>
